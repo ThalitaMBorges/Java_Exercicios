@@ -1,6 +1,5 @@
 
-public class Testavariaveis {
-	
+public class TestaVariaveis {
 	public static void main(String[] args) {
 		System.out.println("Olá novo teste");
 		
@@ -14,9 +13,10 @@ public class Testavariaveis {
 		idade = 5 * 5;
 		
 		System.out.println(idade);
-		
 	
-		
 	}
 	
 }
+
+
+
