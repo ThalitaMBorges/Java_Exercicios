@@ -1,5 +1,5 @@
 
-public class TestaLaco4 {
+public class TestaLacos4 {
 	public static void main(String[] args) {
 		//fatoriais de 1 a 10!
 		int fatorial = 1;
